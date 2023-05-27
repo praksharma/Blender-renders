@@ -5,7 +5,7 @@ The rendering was done on NVIDIA RTX A5000 24GB. I am not gonna upload the sourc
 
 Here are specs of the machine.
 
-
+```
            .-/+oossssoo+/-.               hell@homeserver 
         `:+ssssssssssssssssss+:`           --------------- 
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.2 LTS x86_64 
@@ -26,5 +26,5 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
       -+sssssssssssssssssyyyssss+-         Memory: 15441MiB / 64178MiB 
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.                                       
-                                                                   
+```           
 
