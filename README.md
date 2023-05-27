@@ -25,6 +25,6 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
     .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA RTX A5000 
       -+sssssssssssssssssyyyssss+-         Memory: 15441MiB / 64178MiB 
         `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.                                       
+            .-/+oossssoo+/-.                                                                                                          
 ```           
 
